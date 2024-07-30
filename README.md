@@ -21,7 +21,7 @@ Our project leverages data from various NGOs, societies, and volunteer organizat
 
 - World Bank Open Data
 - United Nations National Multidimensional Poverty Index
-- 
+
 ## Tech Stack
 Hope Wave utilizes the following technologies:
 
@@ -35,7 +35,7 @@ Hope Wave utilizes the following technologies:
 - Custom CSS: Additional custom styles applied directly in component files or through separate CSS files, ensuring a unique and cohesive design.
 - CSS-in-JS: Styling integrated directly within JavaScript files, enhancing the modularity and maintainability of the codebase.
 - Responsive Design: The website uses responsive design principles to ensure it works across different devices and screen sizes.
-- 
+  
 ### 3. State Management:
 - React Hooks: Utilizing React's built-in hooks like useState, useEffect, etc., for managing component state and side effects efficiently.
 
@@ -43,7 +43,7 @@ Hope Wave utilizes the following technologies:
 - React Bootstrap Forms: Leveraging React Bootstrap's form components to create and style forms, ensuring consistency with the overall design.
 - React Hook Form: A library for managing form state, validation, and submission, simplifying handling form inputs and validations in React.
 - APIs and Integrations: For seamless data exchange and feature enhancements
-- 
+ 
 ### 5. Deployment:
 - Vercel: The website is deployed on Vercel, a platform for frontend frameworks and static sites, built to integrate with headless content, commerce, or databases, ensuring seamless deployment and scalability.
 
