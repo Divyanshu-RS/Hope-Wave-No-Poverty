@@ -15,11 +15,72 @@ Hope Wave aims to achieve the following objectives:
 - Collaborative Efforts: Partner with governments, NGOs, and the private sector to amplify impact.
 - Community-driven Initiatives: Encourage local participation for tailored solutions that meet specific community needs.
 - Social Inclusion: Promote social inclusion and equity for marginalized groups.
+
+ ## Who We Are?
+Hope Wave No Poverty is a movement led by a group of enthusiastic people who think that working together can make a big difference, not merely an organization. With the unifying objective of ending poverty, our varied team brings together experts from a range of disciplines, including social work, economics, healthcare, and education.
+<div align="center">
+  <h2>Mind's behind Hope Wave No Poverty </h2>
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/divyanshu0212/htmlbasic/main/Divyanshu.png" width="100" height="100" alt="Divyanshu"><br>
+        <b>Divyanshu</b><br>
+        <i>Software Developer | Product Developer</i><br>
+        <a href="https://github.com/Divyanshu-RS">GitHub</a> |
+        <a href="mailto:divyanshuranjan.9999@gmail.com">Email</a> |
+        <a href="https://www.linkedin.com/in/divyanshu-ranjan-singh/">LinkedIn</a>
+      </td>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/divyanshu0212/htmlbasic/main/Aastha.png" width="100" height="100" alt="Aastha"><br>
+        <b>Aastha</b><br>
+        <i>Software Developer | Front-End Developer</i><br>
+        <a href="https://github.com/aastha64">GitHub</a> |
+        <a href="mailto:aasthatayal2002@gmail.com">Email</a> |
+        <a href="https://www.linkedin.com/in/aastha5464/">LinkedIn</a>
+      </td>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/divyanshu0212/htmlbasic/main/Mridul.png" width="100" height="100" alt="Merdul"><br>
+        <b>Merdul</b><br>
+        <i>Software Engineer | Data Analyst</i><br>
+        <a href="https://github.com/Merdulsh2003">GitHub</a> |
+        <a href="mailto:merdulsharma2003@gmail.com">Email</a> |
+        <a href="https://www.linkedin.com/in/merdul-sharma-962324292/">LinkedIn</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/divyanshu0212/htmlbasic/main/Deepika.png" width="100" height="100" alt="Deepika"><br>
+        <b>Deepika</b><br>
+        <i>UX Engineer | Technical Content Writer</i><br>
+        <a href="https://github.com/Deepika5656tomar">GitHub</a> |
+        <a href="mailto:tomardeepika2610@gmail.com">Email</a> |
+        <a href="https://www.linkedin.com/in/deepika-tomar-0ba3a8257/">LinkedIn</a>
+      </td>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/divyanshu0212/htmlbasic/main/Aman.png" width="100" height="100" alt="Aman"><br>
+        <b>Aman</b><br>
+        <i>ML Engineer | Data Analyst</i><br>
+        <a href="https://github.com/Amanrathore004">GitHub</a> |
+        <a href="mailto:amanaryaratansingh@gmail.com">Email</a> |
+        <a href="https://www.linkedin.com/in/aman-rathore-492537269/">LinkedIn</a>
+      </td>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/divyanshu0212/htmlbasic/main/Love.png" width="100" height="100" alt="Love"><br>
+        <b>Love</b><br>
+        <i>Software Engineer | Ui-Ux Designer</i><br>
+        <a href="https://github.com/myselflove">GitHub</a> |
+        <a href="mailto:kloverohit7892@gmail.com">Email</a> |
+        <a href="https://www.linkedin.com/in/love-kumar666/">LinkedIn</a>
+      </td>
+    </tr>
+  </table>
+</div>
 <br>
- Data Sources Used
+
+### Data Sources Used
 Our project leverages data from various NGOs, societies, and volunteer organizations, including data sources such as:
 
-- World Bank Open Data
+- World Bank Open Data for India
 - United Nations National Multidimensional Poverty Index
 
 ## Tech Stack
