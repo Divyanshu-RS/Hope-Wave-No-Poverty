@@ -69,7 +69,7 @@ export default function AboutUs() {
       github: 'https://github.com/Amanrathore004', email: 'mailto:amanaryaratansingh@gmail.com', linkedin: 'https://www.linkedin.com/in/aman-rathore-492537269/', title: 'ML Engineer | Data Analyst'
     },
     { name: 'Love', image: 'https://raw.githubusercontent.com/divyanshu0212/htmlbasic/main/Love.png', 
-      github: 'https://github.com/myselflove', email: 'kloverohit7892@gmail.com', linkedin: 'https://www.linkedin.com/in/love-kumar666/', title: 'Software Engineer | Ui-Ux Designer'
+      github: 'https://github.com/myselflove', email: 'mailto:kloverohit7892@gmail.com', linkedin: 'https://www.linkedin.com/in/love-kumar666/', title: 'Software Engineer | Ui-Ux Designer'
     },
   ];
 
