@@ -41,7 +41,7 @@ Hope Wave No Poverty is a movement led by a group of enthusiastic people who thi
       <td align="center">
         <img src="https://raw.githubusercontent.com/divyanshu0212/htmlbasic/main/Mridul.png" width="100" height="100" alt="Merdul"><br>
         <b>Merdul</b><br>
-        <i>Software Engineer | Data Analyst</i><br>
+        <i>Software Engineer | Front-End Developer</i><br>
         <a href="https://github.com/Merdulsh2003">GitHub</a> |
         <a href="mailto:merdulsharma2003@gmail.com">Email</a> |
         <a href="https://www.linkedin.com/in/merdul-sharma-962324292/">LinkedIn</a>
